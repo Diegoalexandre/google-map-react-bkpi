@@ -1,10 +1,10 @@
 {
-  "name": "google-map-react",
+  "name": "google-map-react-bkpi",
   "description": "isomorphic google map react component, allows render react components on the google map",
   "main": "lib/umd/GoogleMapReact.js",
-  "homepage": "https://github.com/google-map-react/google-map-react",
+  "homepage": "https://github.com/Diegoalexandre/google-map-react-bkpi#README.md",
   "authors": [
-    "Ivan Starkov <istarkov@gmail.com>"
+    "Diego Alexandre <diegoalexandryy@gmail.com>"
   ],
   "keywords": [
     "react",
@@ -12,7 +12,6 @@
     "google",
     "map",
     "maps",
-    "isomorphic",
     "render",
     "component",
     "javascript",
